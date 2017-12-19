@@ -3,11 +3,13 @@
 - Music-preference : 뮤비렌즈 데이터를 사용하여 사용자간의 유사성을 유클리드 거리로 계산
 
 #### 1. 프로젝트 관리
-- About Git
+- About Git/ Github
   - [try Git - exersise](https://try.github.io/levels/1/challenges/1)
   - [git - the simple guide :+1:](http://rogerdudler.github.io/git-guide/index.ko.html)
   - [Github를 기반으로 한 온라인 코드리뷰 방법](https://youtu.be/a5c9ku-_fok)
   - [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
+  - [Squash your commits](https://github.com/blog/2141-squash-your-commits)
+ 
 - 작업흐름 GitHub Flow
   - [GitHub Flow explain by Sung Kim :tv: :+1:](https://youtu.be/x-b_ij22vWg)
   - [GitHub Flow demo :tv: :+1:](https://youtu.be/GeFkVB8w7uM)
