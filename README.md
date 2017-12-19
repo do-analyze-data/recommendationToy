@@ -7,9 +7,11 @@
   - [try Git - exersise](https://try.github.io/levels/1/challenges/1)
   - [git - the simple guide :+1:](http://rogerdudler.github.io/git-guide/index.ko.html)
   - [Github를 기반으로 한 온라인 코드리뷰 방법](https://youtu.be/a5c9ku-_fok)
+  - [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
 - 작업흐름 GitHub Flow
   - [GitHub Flow explain by Sung Kim :tv: :+1:](https://youtu.be/x-b_ij22vWg)
   - [GitHub Flow demo :tv: :+1:](https://youtu.be/GeFkVB8w7uM)
+
 
 - 작업단위 외에 고쳐야할 버그는 issue 먼저 작성 (Assignee, Milestone 지정)
   -  해당하는 Milestone이 없을 경우, 팀멤버와 이야기 한 후 설정
@@ -28,4 +30,3 @@
     - [Git: 서브모듈 이해하기 (git submodule)- by ohgyun](http://ohgyun.com/711)
   - sparse checkout
     - [git-commit-push-pull-with-sparse-checkout](https://stackoverflow.com/questions/35925631/git-commit-push-pull-with-sparse-checkout)
-
