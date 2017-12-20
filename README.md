@@ -4,16 +4,18 @@
 
 #### 1. 프로젝트 관리
 - About Git/ Github
+  - [GITHUB와 함께 Social하게 코딩하기 by Young-Ho Cha](https://www.slideshare.net/ganachoco/14-4-gdg-codelab)
+  - [Github를 기반으로 한 온라인 코드리뷰 방법 :tv: :+1:](https://youtu.be/a5c9ku-_fok)
   - [try Git - exersise](https://try.github.io/levels/1/challenges/1)
   - [git - the simple guide :+1:](http://rogerdudler.github.io/git-guide/index.ko.html)
-  - [Github를 기반으로 한 온라인 코드리뷰 방법 :tv: :+1:](https://youtu.be/a5c9ku-_fok)
   - [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
   - [Squash your commits](https://github.com/blog/2141-squash-your-commits)
  
 - 작업흐름 GitHub Flow
   - [GitHub Flow explain by Sung Kim :tv: :+1:](https://youtu.be/x-b_ij22vWg)
   - [GitHub Flow demo :tv: :+1:](https://youtu.be/GeFkVB8w7uM)
-
+  - issue 관리가 뭐죠? 
+    - 내 집 관리도 github issue 관리로! [Issue tracker for my house](https://github.com/frabcus/house)
 
 - 작업단위 외에 고쳐야할 버그는 issue 먼저 작성 (Assignee, Milestone 지정)
   -  해당하는 Milestone이 없을 경우, 팀멤버와 이야기 한 후 설정
@@ -27,8 +29,9 @@
   - 참고.[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - commit Log : 영어로 목적어 + 동사 /  
   - 참고: [How to Write a Git Commit Message](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
-- Merge with ankusCrawler project
+- ETC
   - [Git - submodule](https://git-scm.com/book/ko/v1/Git-도구-서브모듈)
     - [Git: 서브모듈 이해하기 (git submodule)- by ohgyun](http://ohgyun.com/711)
   - sparse checkout
     - [git-commit-push-pull-with-sparse-checkout](https://stackoverflow.com/questions/35925631/git-commit-push-pull-with-sparse-checkout)
+  - [MarkDown cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
