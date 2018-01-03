@@ -8,6 +8,7 @@
   - [Github를 기반으로 한 온라인 코드리뷰 방법 :tv: :+1:](https://youtu.be/a5c9ku-_fok)
   - [try Git - exersise](https://try.github.io/levels/1/challenges/1)
   - [git - the simple guide :+1:](http://rogerdudler.github.io/git-guide/index.ko.html)
+  - [How to Write a Git Commit Message](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
   - [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
   - [Squash your commits](https://github.com/blog/2141-squash-your-commits)
  
