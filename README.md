@@ -3,6 +3,8 @@
 - Music-preference : 뮤비렌즈 데이터를 사용하여 사용자간의 유사성을 유클리드 거리로 계산
 
 #### 1. 프로젝트 관리
+- Version 명세
+  - cf. [유의적 버전 명세](https://semver.org/lang/ko)
 - About Git/ Github
   - [GITHUB와 함께 Social하게 코딩하기 by Young-Ho Cha](https://www.slideshare.net/ganachoco/14-4-gdg-codelab)
   - [Github를 기반으로 한 온라인 코드리뷰 방법 :tv: :+1:](https://youtu.be/a5c9ku-_fok)
