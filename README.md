@@ -28,8 +28,9 @@
 - Branch: 영어,동사-(작업파일 또는 단위) 
   - e.g. refactor-authentication, user-content-cache-key, make-retina-avatars
   - 참고.[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-- commit Log : 영어로 목적어 + 동사 /  
-  - 참고: [How to Write a Git Commit Message](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
+- commit Log : 영어로 목적어 + 동사
+  - 참고: [How to Write a Git Commit Message](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
+  - [Git Commit Good Practice](https://wiki.openstack.org/wiki/GitCommitMessages)
 - ETC
   - [Git - submodule](https://git-scm.com/book/ko/v1/Git-도구-서브모듈)
     - [Git: 서브모듈 이해하기 (git submodule)- by ohgyun](http://ohgyun.com/711)
