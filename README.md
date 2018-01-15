@@ -26,6 +26,7 @@
   - [Checkout github pull requests locally](https://gist.github.com/piscisaureus/3342247)
 - 금, 토 저녁 만나서 Merge Request 실행
 - Branch: 영어,동사-(작업파일 또는 단위) 
+  - [stackoverflow-git-branch-naming-best-practices](https://stackoverflow.com/questions/273695/git-branch-naming-best-practices)
   - e.g. refactor-authentication, user-content-cache-key, make-retina-avatars
   - 참고.[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - commit Log : 영어로 목적어 + 동사
