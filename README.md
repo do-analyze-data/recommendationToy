@@ -3,6 +3,7 @@
 - Music-preference : 뮤비렌즈 데이터를 사용하여 사용자간의 유사성을 유클리드 거리로 계산
 
 #### 1. 프로젝트 관리
+** 원활한 협업을 위해 함께 정하고 지켜나가야할 사항들입니다. :+1: 표시된 컨텐츠를 우선으로 봅니다. **
 - Version 명세
   - cf. [유의적 버전 명세](https://semver.org/lang/ko)
 - About Git/ Github
@@ -10,6 +11,7 @@
   - [Github를 기반으로 한 온라인 코드리뷰 방법 :tv: :+1:](https://youtu.be/a5c9ku-_fok)
   - [try Git - exersise](https://try.github.io/levels/1/challenges/1)
   - [git - the simple guide :+1:](http://rogerdudler.github.io/git-guide/index.ko.html)
+  - [Git을 이용하여 텔레파시 통하는 팀 만들기 : commit message와 commit log - 해줌스토리 :+1:](http://story.haezoom.com/?p=936)
   - [How to Write a Git Commit Message](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
   - [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
   - [Squash your commits](https://github.com/blog/2141-squash-your-commits)
@@ -29,6 +31,7 @@
 - 금, 토 저녁 만나서 Merge Request 실행
 - Branch: 영어,동사-(작업파일 또는 단위) 
   - [stackoverflow-git-branch-naming-best-practices](https://stackoverflow.com/questions/273695/git-branch-naming-best-practices)
+  - [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다](http://thdev.tech/android/git/2018/01/21/Git-Branch.html)
   - e.g. refactor-authentication, user-content-cache-key, make-retina-avatars
   - 참고.[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
 - commit Log : 영어로 목적어 + 동사
