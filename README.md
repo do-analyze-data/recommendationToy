@@ -7,6 +7,7 @@
 - Version 명세
   - cf. [유의적 버전 명세](https://semver.org/lang/ko)
 - About Git/ Github
+  - [텍스트와 이미지로 살펴보는 코드스쿼드의 온라인 코드 리뷰 과정 :+1:](https://github.com/code-squad/codesquad-docs/blob/master/codereview/README.md)
   - [GITHUB와 함께 Social하게 코딩하기 by Young-Ho Cha](https://www.slideshare.net/ganachoco/14-4-gdg-codelab)
   - [Github를 기반으로 한 온라인 코드리뷰 방법 :tv: :+1:](https://youtu.be/a5c9ku-_fok)
   - [try Git - exersise](https://try.github.io/levels/1/challenges/1)
