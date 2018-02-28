@@ -17,6 +17,7 @@
   - [How to Write a Git Commit Message](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
   - [Removing sensitive data from a repository](https://help.github.com/articles/removing-sensitive-data-from-a-repository/)
   - [Squash your commits](https://github.com/blog/2141-squash-your-commits)
+  - [Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips#%EB%A7%88%EC%A7%80%EB%A7%89-n%EA%B0%9C%EC%9D%98-%EC%BB%A4%EB%B0%8B-%EB%82%98%EC%97%B4%ED%95%98%EA%B8%B0)
  
 - 작업흐름 GitHub Flow
   - [GitHub Flow explain by Sung Kim :tv: :+1:](https://youtu.be/x-b_ij22vWg)
