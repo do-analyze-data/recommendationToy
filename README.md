@@ -9,6 +9,8 @@
 - About Git/ Github
   - [텍스트와 이미지로 살펴보는 코드스쿼드의 온라인 코드 리뷰 과정 :+1:](https://github.com/code-squad/codesquad-docs/blob/master/codereview/README.md)
   - [GITHUB와 함께 Social하게 코딩하기 by Young-Ho Cha](https://www.slideshare.net/ganachoco/14-4-gdg-codelab)
+  - [first contribution](https://github.com/Roshanjossey/first-contributions/blob/master/translations/README.ko.md)
+    - [FIRST TIMERS ONLY - Friendly Open Source projects should reserve specific issues for newbies](http://www.firsttimersonly.com/)
   - [Github를 기반으로 한 온라인 코드리뷰 방법 :tv: :+1:](https://youtu.be/a5c9ku-_fok)
   - [try Git - exersise](https://try.github.io/levels/1/challenges/1)
   - [git - the simple guide :+1:](http://rogerdudler.github.io/git-guide/index.ko.html)
