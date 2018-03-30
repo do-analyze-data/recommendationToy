@@ -13,6 +13,7 @@
     - [FIRST TIMERS ONLY - Friendly Open Source projects should reserve specific issues for newbies](http://www.firsttimersonly.com/)
   - [Github를 기반으로 한 온라인 코드리뷰 방법 :tv: :+1:](https://youtu.be/a5c9ku-_fok)
   - [Naver 오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/)
+  - [commit-together-with-co-authors](https://blog.github.com/2018-01-29-commit-together-with-co-authors/)
 - About Git/ Github  
   - [try Git - exersise](https://try.github.io/levels/1/challenges/1)
   - [git - the simple guide :+1:](http://rogerdudler.github.io/git-guide/index.ko.html)
