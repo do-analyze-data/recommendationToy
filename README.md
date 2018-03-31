@@ -27,10 +27,10 @@
 - 작업흐름 GitHub Flow
   - [GitHub Flow explain by Sung Kim :tv: :+1:](https://youtu.be/x-b_ij22vWg)
   - [GitHub Flow demo :tv: :+1:](https://youtu.be/GeFkVB8w7uM)
-- issue 관리가 뭐죠? 
+- issue 
   - [github guide - issue](https://guides.github.com/features/issues/)
   - 내 집 관리도 github issue 관리로! [Issue tracker for my house](https://github.com/frabcus/house)
-
+  - [github - issue/PR template](https://help.github.com/articles/about-automation-for-issues-and-pull-requests-with-query-parameters/)
 - 작업단위 외에 고쳐야할 버그는 issue 먼저 작성 (Assignee, Milestone 지정)
   -  해당하는 Milestone이 없을 경우, 팀멤버와 이야기 한 후 설정
 - 각각 본 레포지토리 fork 후 로컬에서 작업단위로 Branch 나누어 commit
